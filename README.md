@@ -1,5 +1,5 @@
 # First--class--Demo
 This is my 1st time in Github
-Author: SAnjeet
-powershellGet-ChildItem -Force
+Author: SAnjeetGet-ChildItem -Force
+powershell
 Use code with caution.c
